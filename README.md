@@ -8,9 +8,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a mobile native Android developer and I am passionate about software engineering. I am a big fan of Kotlin and I currently build most client apps using Kotlin,Android Jetpack libraries and many others.
 
-- 🌱 I’m currently learning Flutter development for cross-paltform development as well as iOS development to be familiar with the two most popular mobile operating systems.
+- 🌱 I’m am as well exploring [Jetpack](https://developer.android.com/jetpack/compose) for Android development and I have even deployed an [app](https://play.google.com/store/apps/details?id=com.ngengeapps.wysiswyg) written entirely with Jetpack Compose.
+- I am also exploring SwiftUI and Flutter for mobile development as well.
+- You can check some of my works on [Google Play](https://play.google.com/store/apps/developer?id=Ngenge+Senior+Nlinwe&hl)
 
-- Technical Writing: I spend part of my time writing technical articles on [Medium](https://medium.com/@ngengesenior) and on my website,[ThreadedCoder](http://threadedcoder.com). I write about topics like Android development,Flutter,Community building and a little on Blockchain technology(I try different technologies from time to time).
+- Technical Writing: I spend part of my time writing technical articles on [Medium](https://ngengesenior.medium.com/) and on my website,[ThreadedCoder](http://threadedcoder.com). I write about topics like Android development,Flutter,Community building and a little on Blockchain technology(I try different technologies from time to time).
 
 - 📫 How to reach me: You can reach me through my email, seniorngenge@gmail.com or through [Twitter](https://twitter.com/ngenge_senior) or via [LinkedIn](https://www.linkedin.com/in/ngengesenior) . I am connected on these platforms 24h/7.
 
