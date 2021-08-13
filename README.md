@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a mobile native Android developer and I am passionate about software engineering. I am a big fan of Kotlin and I currently build most client apps using Kotlin,Android Jetpack libraries and many others.I have extensive knowledge of Android Architecture components, Retrofit, Coroutines and more.
 
-- 🌱 I’m am as well exploring [Jetpack Compose](https://developer.android.com/jetpack/compose) for Android development and I have even deployed an [app](https://play.google.com/store/apps/details?id=com.ngengeapps.wysiswyg) written entirely with Jetpack Compose.
+- I’m am as well exploring [Jetpack Compose](https://developer.android.com/jetpack/compose) for Android development and I have even deployed two apps written entirely with Jetpack Compose.
 - I am also exploring SwiftUI and Flutter for mobile development as well.
 - You can check some of my works on [Google Play](https://play.google.com/store/apps/developer?id=Ngenge+Senior+Nlinwe&hl)
 
