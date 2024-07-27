@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m a mobile native Android developer and technical writer and I am passionate about software engineering. I am a big fan of Kotlin and I currently build most client apps using Kotlin,Android Jetpack libraries and many others.I have extensive knowledge of Android Architecture components, Retrofit, Coroutines and more.
+- 🔭 I’m a Software Engineer and technical writer and I am passionate about software engineering. I am a big fan of Kotlin and I currently build most client apps using Kotlin,Android Jetpack libraries and many others.I have extensive knowledge of Android Architecture components, Retrofit, Coroutines and more.
 
 - I’m am as well exploring [Jetpack Compose](https://developer.android.com/jetpack/compose) for Android development and I have even deployed two apps written entirely with Jetpack Compose.
 - I am also exploring SwiftUI and Flutter for mobile development as well.
